@@ -2,6 +2,7 @@
 # Alliance University Website
 
 This project is a website for Alliance University that provides information about its courses, faculty, infrastructure, and more.
+You can view the live website here: [Alliance University Website](file:///Users/saijoshna/Desktop/alliance-university/index.html)
 
 ## Features
 
