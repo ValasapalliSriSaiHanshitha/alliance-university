@@ -23,6 +23,3 @@ This project is a website for Alliance University that provides information abou
 
 ## How to Run
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/ValasapalliSriSaiHanshitha/alliance-university.git
