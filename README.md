@@ -21,5 +21,5 @@ This project is a website for Alliance University that provides information abou
 - **Google Fonts**: Used for typography.
 - **Ionicons**: Icons used throughout the website.
 
-## How to Run
+
 
