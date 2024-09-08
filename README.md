@@ -5,7 +5,7 @@ This project is a website for Alliance University that provides information abou
 
 ## Live Website
 
-You can view the live website here: [Alliance University Website](file:///Users/saijoshna/Desktop/alliance-university/index.html)
+You can view the live website here: [Alliance University Website](http://127.0.0.1:5500/index.html)
 
 
 ## Features
