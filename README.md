@@ -1,5 +1,4 @@
-# alliance-university
-educational institution web
+
 # Alliance University Website
 
 This project is a website for Alliance University that provides information about its courses, faculty, infrastructure, and more.
